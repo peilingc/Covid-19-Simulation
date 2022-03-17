@@ -1,4 +1,4 @@
-# Covid-19-simulation
+# Covid-19-Simulation
 This project aims to simulate the spread of covid-19 under different circumstances. 
 We build a virus simulator in order to demonstrate how virus will spread widely without further
 protection, and how effective each measure of protection is to stop the spread, including
